@@ -2,6 +2,14 @@
 <TextureAtlas imagePath="NOTE_assets.png">
 	<!-- Created with Adobe Animate version 20.0.0.17400 -->
 	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bloodloss down0000" x="0" y="600" width="174" height="183" frameX="0" frameY="0" frameWidth="174" frameHeight="183" />
+	<SubTexture name="bloodloss left0000" x="174" y="600" width="174" height="183" frameX="0" frameY="0" frameWidth="174" frameHeight="183" />
+	<SubTexture name="bloodloss right0000" x="348" y="600" width="174" height="183" frameX="0" frameY="0" frameWidth="174" frameHeight="183" />
+	<SubTexture name="bloodloss up0000" x="522" y="600" width="174" height="183" frameX="0" frameY="0" frameWidth="174" frameHeight="183" />
+	<SubTexture name="warn warnnote0000" x="0" y="800" width="187" height="161" frameX="0" frameY="0" frameWidth="187" frameHeight="161" />
+	<SubTexture name="warn warnhit0000" x="187" y="800" width="187" height="161" frameX="0" frameY="0" frameWidth="187" frameHeight="161" />
+	<SubTexture name="warn warnhit0001" x="374" y="800" width="187" height="161" frameX="0" frameY="0" frameWidth="187" frameHeight="161" />
+	<SubTexture name="warn warnhit0002" x="561" y="800" width="187" height="161" frameX="0" frameY="0" frameWidth="187" frameHeight="161" />
 	<SubTexture name="arrowDOWN0000" x="0" y="235" width="157" height="153"/>
 	<SubTexture name="arrowLEFT0000" x="310" y="235" width="153" height="157"/>
 	<SubTexture name="arrowRIGHT0000" x="157" y="235" width="153" height="157"/>
@@ -50,4 +58,8 @@
 	<SubTexture name="up press0001" x="609" y="389" width="144" height="141" frameX="-5" frameY="-4" frameWidth="153" frameHeight="150"/>
 	<SubTexture name="up press0002" x="1850" y="308" width="153" height="150"/>
 	<SubTexture name="up press0003" x="1850" y="308" width="153" height="150"/>
+	<SubTexture name="upb0000" x="0" y="867" width="157" height="157"/>
+	<SubTexture name="downb0000" x="157" y="867" width="157" height="157"/>
+	<SubTexture name="rightb0000" x="311" y="867" width="157" height="157"/>
+	<SubTexture name="leftb0000" x="465" y="867" width="157" height="157"/>
 </TextureAtlas>

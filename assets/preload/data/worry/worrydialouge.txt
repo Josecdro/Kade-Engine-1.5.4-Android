@@ -1,0 +1,11 @@
+:bg:cutscenes/phonecall
+:soundoverwrite:dialogue/worry/bb/1
+:bb-6:Hey, um.. bro..? Hate to call you late at night. But I really need some company tonight..
+:soundoverwritestop:
+:soundoverwrite:dialogue/worry/bb/2
+:bb-6:Yeah, you can bring your GF, but I just need you right now, man. She can come in later.
+:soundoverwritestop:
+:soundoverwrite:dialogue/worry/bb/3
+:bb-6:Yeah... alright, see you in a bit.
+:soundoverwritestop:
+:musicstop:

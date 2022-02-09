@@ -1,0 +1,91 @@
+:musicloop:killerdialouge/killerdialoguemusic
+:bg:cutscenes/ohnoitshim
+:pause:
+:PK-1:
+:PK-2:
+:PK-3:
+:soundoverwrite:dialogue/powerthrough/killer/1
+:K-2:Well, well, well. Look who it is.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/2
+:K-1:Aren't you that pile of flesh I offed a while ago?
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/3
+:K-3:HAHAHAHAHA! Oh, what a joy it is to run back into you, again!
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/4
+:K-1:You and that damn demon ruined my life.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/5
+:K-1:If you hadn't fucking moved that day, no one would've suffered, and I still would've been at heaven's door. Ugh!
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/6
+:K-1:Oh, and the whore is here too.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/7
+:K-1:My, my, are the gods giving me a sliver of grace today.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/8
+:K-1:The two people who I want gone in the same spot, TOGETHER!
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/9
+:K-1:You're making this too easy!
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/bb/Heart
+:bb-17:...
+:soundoverwritestop:
+:enableTypeSound:
+:bf-6:BEOP BEEP! *angry*
+:disableTypeSound:
+:soundoverwrite:dialogue/powerthrough/killer/10
+:K-1:Hm? Oh. Almost completely forgot you existed, midget.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/11
+:K-1:What do you want, huh? You think I'm scared of you? Look at your brother.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/bb/Heart
+:bb-17:...
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/12
+:K-2:Your only protection is having his own mental problems, and you're not even on my kill list.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/13
+:K-2:It's almost sad, seeing your brother look so helpless. I could, as an angel myself, spare him some grace and just..
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/14
+:K-2:..put him out of his misery right here and now. I still have 13 rounds left in the chamber, I'd be doing him a favor.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-5:BEEP BEOP!
+:disableTypeSound:
+:soundoverwrite:dialogue/powerthrough/killer/15
+:K-2:You want a what? A rap battle? ME?
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/16
+:K-3:HAHAHAHAHAHA oh, no no no. I don't rap, however..
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/killer/17
+:K-2:..I will sing, and after I crush you, I'll take your brother, and girlfriend to where they belong. In hell.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/bb/4
+:bb-6:Not... without... me.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-2:...B-Beep?
+:disableTypeSound:
+:soundoverwrite:dialogue/powerthrough/bb/5
+:bb-12:I'm afraid, but I'm not going to let him hurt you.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-2:..bee...
+:disableTypeSound:
+:soundoverwrite:dialogue/powerthrough/killer/18
+:K-1:Hmph. Fine then, let's see how well you two sing. If you beat me, maybe I'll give you guys a few seconds to get away.. heh.
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/bb/6
+:bb-6:I.. I've not sang this type of music in a while. I'll try and keep up. We got this man! ..I hope.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-3:Beep!
+:disableTypeSound:
+:musicstop:

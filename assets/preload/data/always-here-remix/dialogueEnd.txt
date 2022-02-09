@@ -1,0 +1,22 @@
+:musicloop:dialogue/dialoguemusic
+:bg:cutscenes/rooftopChat
+:soundoverwrite:dialogue/powerthrough/bb/1
+:bb-13:Hell yeah, man! That sounded amazing!
+:soundoverwritestop:
+:sound:bfText
+:enableTypeSound:
+:bf-11:Beop be!
+:disableTypeSound:
+:soundoverwrite:dialogue/powerthrough/bb/2
+:bb-12:You and me need to sing way more often!
+:soundoverwritestop:
+:soundoverwrite:dialogue/powerthrough/bb/3
+:bb-12:It's actually helping my heart get tougher! I feel amazing, no thanks to you!
+:soundoverwritestop:
+:enableTypeSound:
+:bf-3:Beop bee!
+:disableTypeSound:
+:soundoverwrite:dialogue/powerthrough/motherheckinglocksound/1
+:bb-17:!!!
+:soundoverwritestop:
+:musicstop:

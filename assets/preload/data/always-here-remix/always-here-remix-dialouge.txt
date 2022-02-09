@@ -1,0 +1,91 @@
+:musicloop:dialogue/dialoguemusic
+:bg:cutscenes/rooftopChat
+:sound:bfText
+:soundoverwrite:dialogue/alwayshere/bb/1
+:bb-12:I felt I needed to get some fresh air after that.
+:soundoverwritestop:
+:soundoverwrite:dialogue/alwayshere/bb/2
+:bb-12:Thanks for forcing me sing there... helped ground me back in reality.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-11:Beep!
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/3
+:bb-13:Being with family again really has boosted my mental health.
+:soundoverwritestop:
+:soundoverwrite:dialogue/alwayshere/bb/4
+:bb-13:I thought being away for a while was what I needed...
+:soundoverwritestop:
+:soundoverwrite:dialogue/alwayshere/bb/5
+:bb-13:But, I think I was accidentally driving myself further away and not realizing it.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-9:Beep beop be.
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/6
+:bb-8:I know thats a sign for depression but, come on man, you think I would realize that?
+:soundoverwritestop:
+:enableTypeSound:
+:bf-4:..Beop be
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/7
+:bb-6:Yeah, yeah, I know, I know. I need to get help for that.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-7:Beep. Beop. Bee.
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/8
+:bb-11:Damn, putting it blunt now, huh?
+:soundoverwritestop:
+:enableTypeSound:
+:bf-6:BEEP!
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/9
+:bb-11:Geez, come on man... I don't need it. Plus, there are others who probably have it worse.
+:soundoverwritestop:
+:soundoverwrite:dialogue/alwayshere/bb/10
+:bb-11:It feels.. wrong for me to go in.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-7:Bopbe Beo bop!
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/11
+:bb-6:I just... maybe another time. Besides, I'm technically doing better now, so..
+:soundoverwritestop:
+:enableTypeSound:
+:bf-5:BE BOP BEEP!
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/12
+:bb-9:Yikes! Alright, alright! Tomorrow morning... damn, I'll give a call to get an appointment.
+:soundoverwritestop:
+:enableTypeSound:
+:bf-7:Beop bee bop be-
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/13
+:bb-8:Dude, I'm 25. You think I can't handle a phone call to a doctor? Seriously?
+:soundoverwritestop:
+:enableTypeSound:
+:bf-4:Beep.
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/14
+:bb-10:Well shit... can't walk my way out of this, huh?
+:soundoverwritestop:
+:soundoverwrite:dialogue/alwayshere/bb/15
+:bb-10:Fuck.. fine. You can be next to me when I make the stupid call, alright?
+:soundoverwritestop:
+:enableTypeSound:
+:bf-4:Beep!
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/16
+:bb-12:Mm, but that aside... I came up here for a reason. Wanna do a remix, man?
+:soundoverwritestop:
+:soundoverwrite:dialogue/alwayshere/bb/17
+:bb-12:I kinda tweaked some of the melody of one of our songs this time. Would love for us to try it out!
+:soundoverwritestop:
+:enableTypeSound:
+:bf-10:Beep bop!
+:disableTypeSound:
+:soundoverwrite:dialogue/alwayshere/bb/18
+:bb-13:Coolio, glad you and me are on the same brain wave! And this time, your girl can actually see us live!
+:soundoverwritestop:
+:musicstop:
